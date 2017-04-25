@@ -2,6 +2,7 @@ import React from 'react';
 
 class StorePicker extends React.Component {
   render() {
+<<<<<<< HEAD
     // Anywhere else
     return (
       <form className="store-selector">
